@@ -3,7 +3,7 @@ package com.example.myview;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.LinearLayout;
-
+//  这是我做的自定义View
 public class MainActivity extends AppCompatActivity {
 
     @Override
