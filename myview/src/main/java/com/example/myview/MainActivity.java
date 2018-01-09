@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.LinearLayout;
 //  这是我做的自定义View
+//  修改一次
 public class MainActivity extends AppCompatActivity {
 
     @Override
